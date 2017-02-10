@@ -17,3 +17,7 @@ This software is published under the terms of the MIT license.
 
 http://www.opensource.org/licenses/mit-license.php
 
+## Author
+Mónica Milán (@mncmilan)
+
+mncmilan@gmail.com
